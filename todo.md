@@ -1,0 +1,7 @@
+- [x] MusicXML-Export für MuseScore
+- [x] PyTorch Generator & Evaluator (GAN Architecture)
+- [x] Evaluator Pretraining auf MIDI-Dateien + Modell-Speicherung (.pt)
+- [x] Hardware-Schalter `--use-fp16` & CPU/CUDA Auto-Switching
+- [x] Umstieg auf Piano-Roll Raster (Unterstützung für Akkorde & Mehrstimmigkeit)
+- [ ] TODO (Später): Conditional GAN (cGAN) mit Style-Vectors / Prompts einbauen
+- [ ] TODO (Später): Mehrere Spuren / Multi-Instrumente via Channel-Dimension erweitern
